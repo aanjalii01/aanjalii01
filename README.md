@@ -1,4 +1,4 @@
-## Hi there 👋
+##  𝑰'𝒎   𝑨𝑵𝑱𝑨𝑳𝑰   𝑺𝑰𝑵𝑯𝑨  👋
 
 # 💫 About Me:
 Hello! I'm a 2nd-year BTech CSE student passionate about coding, problem-solving, and exploring new technologies.<br>.<br><br>🔭 I'm currently working on building projects in Python, web development, and data structures & algorithms. 🤝 I'm looking to collaborate on open-source projects, hackathons, and coding challenges. ❓ I'm looking for help with competitive programming, AI/ML, and backend development. 👀 I'm currently looking for internship opportunities to gain hands-on experience. 💬 Ask me about Python, C++, web development, and DSA. 🎯 Fun fact: I love debugging code as much as I enjoy solving puzzles!
