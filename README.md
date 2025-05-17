@@ -7,7 +7,7 @@ I’m a Computer Science student and tech explorer who’s passionate about buil
 ## 💡 What Excites Me
 
 - 🌟 **Frontend Development** – Creating sleek, responsive, and accessible user experiences with HTML, CSS, JavaScript, and React.
-- 🔍 **Problem Solving & Competitive Coding** – I love the mental rush of tackling algorithmic challenges using languages like **C, C++, Java, and Python**.
+- 🔍 **Problem Solving & Competitive Coding** – I love the mental rush of tackling algorithmic challenges using languages like **C++, Java, and Python**.
 - 🧠 **Exploring AI/ML & System Design** – Constantly curious about how smart systems and solid design can change the game.
 - 🎨 **Design Thinking** – Balancing creativity and logic to build things users actually enjoy using.
 
