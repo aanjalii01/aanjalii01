@@ -79,3 +79,12 @@ I treat every debugging session like a mystery—frustrating at first, but *incr
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🚀 Featured Projects
+
+- 🔗 [Smart Delivery System](https://github.com/aanjalii01/smart-delivery-system) – Real-time drone-based logistics using Flask + JS.
+- 🔗 [Portfolio Website](https://github.com/aanjalii01/portfolio) – Personal portfolio showcasing my work, skills, and resume.
+- 🔗 [DSA Practice](https://github.com/aanjalii01/DSA-practice) – Competitive programming problems with optimized solutions in C++/Java.
+
+> 💡 Want to see more? Check out the pinned repositories!
+
+
