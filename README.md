@@ -1,7 +1,47 @@
-##  𝑰'𝒎   𝑨𝑵𝑱𝑨𝑳𝑰   𝑺𝑰𝑵𝑯𝑨  👋
+# 👋 Hi, I’m 𝑨𝑵𝑱𝑨𝑳𝑰   𝑺𝑰𝑵𝑯𝑨!
 
-# 💫 About Me:
-Hello! I'm a 2nd-year BTech CSE student passionate about coding, problem-solving, and exploring new technologies.<br>.<br><br>🔭 I'm currently working on building projects in Python, web development, and data structures & algorithms. 🤝 I'm looking to collaborate on open-source projects, hackathons, and coding challenges. ❓ I'm looking for help with competitive programming, AI/ML, and backend development. 👀 I'm currently looking for internship opportunities to gain hands-on experience. 💬 Ask me about Python, C++, web development, and DSA. 🎯 Fun fact: I love debugging code as much as I enjoy solving puzzles!
+I’m a Computer Science student and tech explorer who’s passionate about building smart, impactful, and visually polished solutions. Whether it’s developing intuitive interfaces or cracking tough coding problems, I enjoy turning ideas into real-world tech.
+
+---
+
+## 💡 What Excites Me
+
+- 🌟 **Frontend Development** – Creating sleek, responsive, and accessible user experiences with HTML, CSS, JavaScript, and React.
+- 🔍 **Problem Solving & Competitive Coding** – I love the mental rush of tackling algorithmic challenges.
+- 🧠 **Exploring AI/ML & System Design** – Constantly curious about how smart systems and solid design can change the game.
+- 🎨 **Design Thinking** – Balancing creativity and logic to build things users actually enjoy using.
+
+---
+
+## 🛠️ Current Focus
+
+- Building user-friendly web interfaces with a strong focus on usability and design consistency.
+- Strengthening my DSA fundamentals and exploring advanced concepts.
+- Diving deeper into the world of **AI/ML**, design systems, and full-stack development.
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm always excited to:
+
+- 💻 Team up for **hackathons**, coding events, or tech projects.
+- 🔧 Solve real-world problems with creative tech.
+- 🎯 Learn, grow, and contribute meaningfully with like-minded builders.
+
+> If you're working on something cool or need a partner for your next challenge—I'm in!
+
+---
+
+## 🚀 Looking Ahead
+
+Actively seeking **internship opportunities** where I can learn, grow, and make a real impact through hands-on experience.
+
+---
+
+## 🕵️‍♀️ Fun Fact
+
+I treat every debugging session like a mystery—frustrating at first, but *incredibly rewarding* once the case is cracked!
 
 
 ## 🌐 Socials:
