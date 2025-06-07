@@ -56,7 +56,7 @@ I treat every debugging session like a mystery—frustrating at first, but *incr
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/aanjalii01?tab=repositories">
     <img src="https://img.shields.io/badge/CHECK+OUT+MY+REPOS-grey?style=for-the-badge"/>
   </a>
   <a href="https://yourportfolio.com">
