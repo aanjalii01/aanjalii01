@@ -48,7 +48,7 @@ I treat every debugging session like a mystery—frustrating at first, but *incr
 ## 🎯 Vibe Check
 
 <p align="center">
-  <img src="assets/vibe-check.png" alt="Vibe Check Cat" width="300"/>
+  <img src="assets/catvibe.png" alt="Vibe Check Cat" width="300"/>
 </p>
 
 <p align="center">
