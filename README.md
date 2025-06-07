@@ -45,7 +45,7 @@ I treat every debugging session like a mystery—frustrating at first, but *incr
 
 ---
 
-### 🎯 Vibe Check
+## 🎯 Vibe Check
 
 <p align="center">
   <img src="assets/vibe-check.png" alt="Vibe Check Cat" width="300"/>
@@ -59,10 +59,11 @@ I treat every debugging session like a mystery—frustrating at first, but *incr
   <a href="https://github.com/aanjalii01?tab=repositories">
     <img src="https://img.shields.io/badge/CHECK+OUT+MY+REPOS-grey?style=for-the-badge"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/CLICK+HERE-brightgreen?style=for-the-badge"/>
   </a>
 </p>
+
 
 ---
 
