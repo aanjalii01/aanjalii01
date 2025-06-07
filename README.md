@@ -43,6 +43,29 @@ Actively seeking **internship opportunities** where I can learn, grow, and make 
 
 I treat every debugging session like a mystery—frustrating at first, but *incredibly rewarding* once the case is cracked!
 
+---
+
+### 🎯 Vibe Check
+
+<p align="center">
+  <img src="assets/vibe-check.png" alt="Vibe Check Cat" width="300"/>
+</p>
+
+<p align="center">
+  <i>"Building dreams, one line of code at a time." – Anjali Sinha</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://img.shields.io/badge/CHECK+OUT+MY+REPOS-grey?style=for-the-badge"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/CLICK+HERE-brightgreen?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 
 ## 🌐 Socials
 
