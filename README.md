@@ -52,15 +52,15 @@ I treat every debugging session like a mystery—frustrating at first, but *incr
 </p>
 
 <p align="center">
-  <i>"Building dreams, one line of code at a time." – Anjali Sinha</i>
+  <i>"Coding like a cat with caffeine — sharp, focused, and slightly dramatic." – Anjali Sinha</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/aanjalii01?tab=repositories">
-    <img src="https://img.shields.io/badge/CHECK+OUT+MY+REPOS-grey?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CHECK+OUT+MY+REPOS-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CLICK+HERE-brightgreen?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/anjali-sinha/" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK+HERE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
